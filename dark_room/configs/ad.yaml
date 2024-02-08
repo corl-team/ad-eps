@@ -1,0 +1,12 @@
+env_name: "DarkRoom-v0"
+batch_size: 512
+hidden_dim: 512
+learning_rate: 3e-4
+eval_every: 10000
+eval_episodes: 100
+num_updates: 300000
+seq_len: 80
+name: "AD-BTD"
+num_train_goals: 65
+num_layers: 4
+hist_per_goal: 20000

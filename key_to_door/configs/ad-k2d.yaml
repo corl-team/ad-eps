@@ -1,0 +1,13 @@
+env_name: "DarkKey2Door-v0"
+name: "AD-BTD"
+learning_rate: 3e-4
+num_layers: 4
+seq_len: 160
+num_updates: 300000
+eval_every: 10000
+eval_episodes: 300
+eval_train_goals: 50
+num_test_goals: 50
+checkpoints_path: "checkpoints/"
+num_train_goals: 1000
+hist_per_goal: 2000

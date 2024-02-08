@@ -1,0 +1,10 @@
+batch_size: 32
+n_filters: 64
+learning_rate: 3e-4
+eval_every: 10000
+eval_episodes: 200
+eval_train_goals: 5
+num_updates: 200000
+name: "AD-BTD-WM"
+eval_test_goals: 20
+learning_histories_path: ""

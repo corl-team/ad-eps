@@ -1,0 +1,7 @@
+seed: 0
+num_goals: 2_000
+num_unique_goals: 71
+env_size: 9
+num_steps: 20_000
+savedir: 'trajectories'
+only_optimal: True

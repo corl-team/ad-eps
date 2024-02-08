@@ -1,0 +1,7 @@
+h5py
+tqdm
+gymnasium==0.29.0
+wandb==0.12.21
+numpy==1.23.1
+matplotlib
+tensorboard
