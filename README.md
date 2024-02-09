@@ -1,3 +1,7 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2312.12275-<COLOR>.svg)](https://arxiv.org/abs/2312.12275) <a href="https://twitter.com/vladkurenkov/status/1755918592820785208">
+        <img src="https://badgen.net/badge/icon/twitter?icon=twitter&label"/>
+    </a>
+
 # In-Context Reinforcement Learning from Noise Distillation
 ![pic](img/head.jpeg)
 
