@@ -80,7 +80,7 @@ To run an experiment, simply run `ad_<env_name>.py` script, the data will genera
 For example, if you wish to train AD$`^\eps`$ on Key-to-Door env with 50% performance from an optimal demonstrator:
 
 ```bash
-python ad_dark_key20door.py --config_path="configs/ad-k2d.yaml" \
+python ad_dark_key2door.py --config_path="configs/ad-k2d.yaml" \
        --max_perf=0.5
 ```
 
@@ -114,11 +114,11 @@ there you go!
 If you used this code for your research or a project, please cite us as:
 
 ```
-@article{zisman2023emergence,
-  title   = {Emergence of In-Context Reinforcement Learning from Noise Distillation},
-  author  = {Ilya Zisman and Vladislav Kurenkov and Alexander Nikulin and Viacheslav Sinii and Sergey Kolesnikov},
-  year    = {2023},
-  journal = {arXiv preprint arXiv: 2312.12275}
+@inproceedings{zisman2024emergence,
+  title = 	 {Emergence of In-Context Reinforcement Learning from Noise Distillation},
+  author =       {Zisman, Ilya and Kurenkov, Vladislav and Nikulin, Alexander and Sinii, Viacheslav and Kolesnikov, Sergey},
+  booktitle = 	 {Proceedings of the 41st International Conference on Machine Learning},
+  year = 	 {2024},
 }
 ```
 
